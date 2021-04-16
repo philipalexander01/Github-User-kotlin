@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">GithubUsers2</string>
+    <string name="search_hint">Search by username…</string>
+    <string name="search"> <xliff:g>search</xliff:g></string>
+    <string name="username"> <xliff:g>username</xliff:g></string>
+    <string name="settings">Setting</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="internet_connection">you don\'t have internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="list_user">List User</string>
+    <string name="language">Language</string>
+    <string name="back_button">back button</string>
+    <string name="notification">Notification</string>
+    <string name="notif_message">Let\'s enter github users into the favorites menu</string>
+    <string name="cancel_repeating_alarm">Cancel Repeating Alarm</string>
+    <string name="start_repeating_alarm">Repeating alarm set up</string>
+    <string name="reminder_alarm">Reminder Alarm</string>
+    <string name="favorite">favorite</string>
+    <string name="list_favorite">List Favorite Users</string>
+    <string name="succes_favorite">Succes entered the user to favorite</string>
+    <string name="success_remove_favorite">Success remove user from favorite</string>
+    <string name="data">data</string>
+    <string name="profile_user">Profile User</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_users">favorite users</string>
+    <string name="click_button_to_see_favorite_users">Click button to see favorite users</string>
+    <string name="no_data">no data</string>
+</resources>

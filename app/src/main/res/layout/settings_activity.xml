@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_10">
+
+    <Switch
+        android:id="@+id/switchNotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_5"
+        android:text="@string/notification"
+        android:textColor="@color/dark"
+        android:textSize="@dimen/sp_22"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    <TextView
+        android:id="@+id/tvLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/language"
+        android:textColor="@color/dark"
+        android:textSize="@dimen/sp_22"
+        app:drawableEndCompat="@drawable/ic_baseline_arrow_forward_ios_24" />
+
+
+</LinearLayout>
